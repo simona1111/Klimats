@@ -1,2 +1,2 @@
-# Klimats
-klimat
+# profesijas
+profesijas
